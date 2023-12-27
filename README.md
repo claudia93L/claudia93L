@@ -46,7 +46,6 @@
    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
   <!-- SPRING -->
    <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://i0.wp.com/indiciatraining.com/wp-content/uploads/2020/05/spring-boot-logo.png" alt="spring-boot" width="40" height="40"/> </a> 
 </p>
 <h5 align="left">UX/UI</h5>
 <p align="left"> 
@@ -61,12 +60,15 @@
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   <!-- Postman -->
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
+<!-- WordPress -->
+  <a href="https://wordpress.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1024px-WordPress_blue_logo.svg.png" alt="wordpress" width="40" height="40"/> </a> 
+
+  https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1024px-WordPress_blue_logo.svg.png
 </p>
 <h3 align="left">Altre skills</h3>
 - SEO
 - Elementor
 - Site Origin
-- WordPress
 - Canva
 - Team Work
 - Problem Solving
