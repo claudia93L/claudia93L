@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1 align="center">Ciao 👋, sono Claudia Lai</h1>
+<h1 align="center">Ciao 👋, sono Claudia</h1>
 <h3 align="center">Aspirante Front-End o Full-Stack Developer della Sardegna</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=claudia93l&label=Profile%20views&color=0e75b6&style=flat" alt="claudia93l" /> </p>
