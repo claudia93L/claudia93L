@@ -3,7 +3,7 @@
 <h1 align="center">Ciao 👋, sono Claudia</h1>
 <h3 align="center">Aspirante Front-End o Full-Stack Developer della Sardegna</h3>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=claudia93l&label=Profile%20views&color=f9b710&style=flat" alt="claudia93l" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=claudia93l&label=Profile%20views&color=d398000&style=flat" alt="claudia93l" /> </p>
 
 - 🌱 Attualmente sto studiando **JavaScript, React.js, Redux.js**
 
