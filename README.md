@@ -5,13 +5,13 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=claudia93l&label=Profile%20views&color=d39800&style=flat" alt="claudia93l" /> </p>
 
-- 🌱 Attualmente sto studiando **JavaScript, React.js, Redux.js**
+🌱 Attualmente sto studiando **JavaScript, React.js, Redux.js**
 
-- 💬 Puoi chiedermi **OOP, Sviluppo Front-End, Database e basi di sviluppo Back-End**
+💬 Puoi chiedermi **OOP, Sviluppo Front-End, Database e basi di sviluppo Back-End**
 
-- 📫 Come contattarmi **https://www.linkedin.com/in/claudia-lai-junior-developer/**
+📫 Come contattarmi **https://www.linkedin.com/in/claudia-lai-junior-developer/**
 
-- ⚡ Nel mio tempo libero **leggo, gioco e viaggio**
+⚡ Nel mio tempo libero **leggo, gioco e viaggio**
 
 <h3 align="left">Linguaggi e strumenti:</h3>
 <h5 align="left">Front-End Dev</h5>
