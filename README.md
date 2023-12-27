@@ -1,5 +1,5 @@
 <h1 align="center">Ciao 👋, sono Claudia</h1>
-<h3 align="center">Aspirante Front-End o Full-Stack Developer della Sardegna</h3>
+<h3 align="center">Aspirante Front-End o Full-Stack Developer</h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=claudia93l&label=Profile%20views&color=d39800&style=flat" alt="claudia93l" /> </p>
 
