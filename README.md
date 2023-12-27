@@ -46,7 +46,7 @@
    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
   <!-- SPRING -->
    <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="[https://www.vectorlogo.zone/logos/springio/springio-icon.svg](https://i0.wp.com/indiciatraining.com/wp-content/uploads/2020/05/spring-boot-logo.png" alt="spring-boot" width="40" height="40"/> </a> 
+  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://i0.wp.com/indiciatraining.com/wp-content/uploads/2020/05/spring-boot-logo.png" alt="spring-boot" width="40" height="40"/> </a> 
 </p>
 <h5 align="left">UX/UI</h5>
 <p align="left"> 
