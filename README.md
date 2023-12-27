@@ -3,7 +3,7 @@
 <h1 align="center">Ciao 👋, sono Claudia</h1>
 <h3 align="center">Aspirante Front-End o Full-Stack Developer della Sardegna</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=claudia93l&label=Profile%20views&color=0e75b6&style=flat" alt="claudia93l" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=claudia93l&label=Profile%20views&color=f9b710&style=flat" alt="claudia93l" /> </p>
 
 - 🌱 Attualmente sto studiando **JavaScript, React.js, Redux.js**
 
@@ -13,7 +13,7 @@
 
 - ⚡ Nel mio tempo libero **leggo, gioco e viaggio**
 
-<h3 align="left">Collegati su:</h3>
+<h3 align="left">Puoi trovarmi su:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/claudia-lai-junior-developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="claudia-lai-junior-developer" height="30" width="40" /></a>
 </p>
