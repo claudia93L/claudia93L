@@ -71,7 +71,7 @@
 
 <h3 align="left" style="float:left;">Puoi trovarmi su: <a href="https://linkedin.com/in/claudia-lai-junior-developer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="claudia-lai-junior-developer" height="30" width="40" /></a></h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=claudia93l&show_icons=true&locale=en&layout=compact" alt="claudia93l" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=claudia93l&show_icons=true&locale=en&layout=compact" alt="claudia93l" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=claudia93l&show_icons=true&locale=en" alt="claudia93l" /></p>
 
