@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Ciao 👋, sono Claudia</h1>
 <h3 align="center">Aspirante Front-End o Full-Stack Developer della Sardegna</h3>
 
