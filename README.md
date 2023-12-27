@@ -11,11 +11,6 @@
 
 - ⚡ Nel mio tempo libero **leggo, gioco e viaggio**
 
-<h3 align="left">Puoi trovarmi su:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/claudia-lai-junior-developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="claudia-lai-junior-developer" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">Linguaggi e strumenti:</h3>
 <h5 align="left">Front-End Dev</h5>
 <p align="left">
@@ -71,6 +66,12 @@
 - Canva
 - Team Work
 - Problem Solving
+
+<h3 align="right">Puoi trovarmi su:</h3>
+<p align="right">
+<a href="https://linkedin.com/in/claudia-lai-junior-developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="claudia-lai-junior-developer" height="30" width="40" /></a>
+</p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=claudia93l&show_icons=true&locale=en&layout=compact" alt="claudia93l" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=claudia93l&show_icons=true&locale=en" alt="claudia93l" /></p>
