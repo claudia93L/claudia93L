@@ -66,13 +66,6 @@
 
 <hr>
 
-<h3 align="left">Altre skills</h3>
-<div>
-  <span>&#9643; SEO</span> <span>	&#9643; Elementor</span> <span>	&#9643; Site Origin</span> <span>	&#9643; Canva</span> <span>	&#9643; Team Work</span> <span>	&#9643; Problem Solving</span>
-</div>
-
-<hr>
-
 <div align="left"> 
   <h3 align="center">Progetti in evidenza:</h3>
   <p>Alcuni progetti svolti in team durante i corsi di Front-End Development e Java Development:</p>
@@ -81,6 +74,13 @@
     <li><a href="https://github.com/claudia93L/Spotify-Clone" target="_blank">Spotify Clone - HTML, CSS, JS</a></li>
     <li><a href="https://github.com/claudia93L/Project-Work---Cartoleria" target="_blank">Cartoleria - HTML, CSS, JS, Spring, SQL</a></li>
   </ul>
+</div>
+
+<hr>
+
+<h3 align="center">Altre skills</h3>
+<div align="center">
+  <span>&#9643; SEO</span> <span>	&#9643; Elementor</span> <span>	&#9643; Site Origin</span> <span>	&#9643; Canva</span> <span>	&#9643; Team Work</span> <span>	&#9643; Problem Solving</span>
 </div>
 
 <hr>
