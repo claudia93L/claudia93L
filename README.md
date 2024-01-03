@@ -67,17 +67,8 @@
 <hr>
 
 <h3 align="left">Altre skills</h3>
-<ul>
-  <li>SEO</li>
-  <li>Elementor</li>
-  <li>Site Origin</li>
-  <li>Canva</li>
-  <li>Team Work</li>
-  <li>Problem Solving</li>
-</ul>
-
 <div>
-  <span style="font-size: 8px;">&#9675; SEO</span> <span>Elementor</span> <span>Site Origin</span>
+  <span>&#9643; SEO</span> <span>	&#9643; Elementor</span> <span>	&#9643; Site Origin</span> <span>	&#9643; Canva</span> <span>	&#9643; Team Work</span> <span>	&#9643; Problem Solving</span>
 </div>
 
 <h3 align="left" style="float:left;">Puoi trovarmi su: <a href="https://linkedin.com/in/claudia-lai-junior-developer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="claudia-lai-junior-developer" height="30" width="40" /></a></h3>
