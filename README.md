@@ -72,7 +72,7 @@
   <ul>
     <li><a href="https://github.com/claudia93L/Quiz-website" target="_blank">Epicode Quiz Website - HTML, CSS, JS</a></li>
     <li><a href="https://github.com/claudia93L/Spotify-Clone" target="_blank">Spotify Clone - HTML, SCSS, JS</a></li>
-    <li><a href="https://github.com/claudia93L/Project-Work---Cartoleria" target="_blank">Cartoleria - HTML, CSS, JS, Spring, SQL</a></li>
+    <li><a href="https://github.com/claudia93L/Project-Work---Cartoleria" target="_blank">E-Commerce Cartoleria - HTML, CSS, JS, Spring, SQL</a></li>
   </ul>
 </div>
 
