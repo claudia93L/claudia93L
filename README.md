@@ -75,7 +75,7 @@
 
 <div align="left"> 
   <h3 align="center">Progetti in evidenza:</h3>
-  <img src="https://i.pinimg.com/474x/83/86/0f/83860f115b709dc65729be58c3774756.jpg" alt="Coding illustration" /> Alcuni progetti svolti in team durante i corsi di Front-End Development e Java Development:
+  <p>Alcuni progetti svolti in team durante i corsi di Front-End Development e Java Development:</p>
   <ul>
     <li><a href="https://github.com/claudia93L/Quiz-website" target="_blank">Epicode Quiz Website - HTML, CSS, JS</a></li>
     <li><a href="https://github.com/claudia93L/Spotify-Clone" target="_blank">Spotify Clone - HTML, CSS, JS</a></li>
