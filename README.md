@@ -73,28 +73,15 @@
 
 <hr>
 
-<div align="left">
+<div align="left"> 
   <h3 align="center">Progetti in evidenza:</h3>
-  <table>
-    <tr>
-      <!-- Colonna per l'immagine -->
-      <td>
-        <img src="https://i.pinimg.com/474x/83/86/0f/83860f115b709dc65729be58c3774756.jpg" alt="Coding illustration" width="300" />
-      </td>
-
-      <!-- Colonna per il testo e l'elenco -->
-      <td>
-        Alcuni progetti svolti in team durante i corsi di Front-End Development e Java Development:
-        <ul>
-          <li><a href="https://github.com/claudia93L/Quiz-website" target="_blank">Epicode Quiz Website - HTML, CSS, JS</a></li>
-          <li><a href="https://github.com/claudia93L/Spotify-Clone" target="_blank">Spotify Clone - HTML, CSS, JS</a></li>
-          <li><a href="https://github.com/claudia93L/Project-Work---Cartoleria" target="_blank">Cartoleria - HTML, CSS, JS, Spring, SQL</a></li>
-        </ul>
-      </td>
-    </tr>
-  </table>
+  <img src="https://i.pinimg.com/474x/83/86/0f/83860f115b709dc65729be58c3774756.jpg" alt="Coding illustration" /> Alcuni progetti svolti in team durante i corsi di Front-End Development e Java Development:
+  <ul>
+    <li><a href="https://github.com/claudia93L/Quiz-website" target="_blank">Epicode Quiz Website - HTML, CSS, JS</a></li>
+    <li><a href="https://github.com/claudia93L/Spotify-Clone" target="_blank">Spotify Clone - HTML, CSS, JS</a></li>
+    <li><a href="https://github.com/claudia93L/Project-Work---Cartoleria" target="_blank">Cartoleria - HTML, CSS, JS, Spring, SQL</a></li>
+  </ul>
 </div>
-
 
 <hr>
 
