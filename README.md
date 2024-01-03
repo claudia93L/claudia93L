@@ -7,11 +7,11 @@
 
 🌱 Attualmente, sto ampliando le mie competenze in programmazione con un focus su **JavaScript, React e Redux**. Questo percorso mi sta offrendo nuove prospettive e competenze nel mondo dello sviluppo software
 
-💬 Dalla fine del 2022 ad oggi, ho preso parte ad esperienze formative che mi hanno dato delle fondamenta di **OOP, Sviluppo Front-End, Database e Back-End**
+💬 Dalla fine del 2022 ad oggi, ho preso parte ad esperienze formative che mi hanno aiutata a costruire le fondamenta di **OOP, Sviluppo Front-End, Database e Back-End**
 
 📫 Come contattarmi **https://www.linkedin.com/in/claudia-lai-junior-developer/**
 
-⚡ Nel mio tempo libero **leggo, gioco e viaggio**
+⚡ Nel tempo libero **leggo, gioco e viaggio**
 
 <hr>
 
