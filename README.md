@@ -5,9 +5,9 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=claudia93l&label=Profile%20views&color=d39800&style=flat" alt="claudia93l" /> </p>
 
-🌱 Attualmente sto studiando **JavaScript, React.js, Redux.js**
+🌱 Attualmente, sto ampliando le mie competenze in programmazione con un focus su **JavaScript, React e Redux**. Questo percorso mi sta offrendo nuove prospettive e competenze nel mondo dello sviluppo software
 
-💬 Puoi chiedermi **OOP, Sviluppo Front-End, Database e basi di sviluppo Back-End**
+💬 Dalla fine del 2022 ad oggi, ho preso parte ad esperienze formative che mi hanno dato delle fondamenta di **OOP, Sviluppo Front-End, Database e Back-End**
 
 📫 Come contattarmi **https://www.linkedin.com/in/claudia-lai-junior-developer/**
 
