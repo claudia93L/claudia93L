@@ -74,8 +74,7 @@
 <hr>
 
 <div align="left"> 
-  <img src="https://image.pngaaa.com/412/5785412-middle.png" alt="Coding illustration" style="float:left;" /> 
-  <p style="float:left;">Ciao sono un test</p>
+  <img src="https://i.pinimg.com/474x/83/86/0f/83860f115b709dc65729be58c3774756.jpg" alt="Coding illustration" /> Ciao sono un test
 </div>
 
 <h3 align="left" style="float:left;">Puoi trovarmi su: <a href="https://linkedin.com/in/claudia-lai-junior-developer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="claudia-lai-junior-developer" height="30" width="40" /></a></h3>
