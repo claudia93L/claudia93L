@@ -74,8 +74,16 @@
 <hr>
 
 <div align="left"> 
-  <img src="https://i.pinimg.com/474x/83/86/0f/83860f115b709dc65729be58c3774756.jpg" alt="Coding illustration" /> Ciao sono un test
+  <h3 align="center">Progetti in evidenza:</h3>
+  <img src="https://i.pinimg.com/474x/83/86/0f/83860f115b709dc65729be58c3774756.jpg" alt="Coding illustration" /> Alcuni progetti svolti in team durante i corsi di Front-End Development e Java Development:
+  <ul>
+    <li><a href="https://github.com/claudia93L/Quiz-website" target="_blank">Epicode Quiz Website - HTML, CSS, JS</a></li>
+    <li><a href="https://github.com/claudia93L/Spotify-Clone" target="_blank">Spotify Clone - HTML, CSS, JS</a></li>
+    <li><a href="https://github.com/claudia93L/Project-Work---Cartoleria" target="_blank">Cartoleria - HTML, CSS, JS, Spring, SQL</a></li>
+  </ul>
 </div>
+
+<hr>
 
 <h3 align="left" style="float:left;">Puoi trovarmi su: <a href="https://linkedin.com/in/claudia-lai-junior-developer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="claudia-lai-junior-developer" height="30" width="40" /></a></h3>
 
