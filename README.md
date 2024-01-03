@@ -13,9 +13,11 @@
 
 ⚡ Nel mio tempo libero **leggo, gioco e viaggio**
 
-<h3 align="left">Linguaggi e strumenti:</h3>
-<h5 align="left">Front-End Dev</h5>
-<p align="left">
+<hr>
+
+<h3 align="center">Linguaggi e strumenti:</h3>
+<h5 align="center">Front-End Dev</h5>
+<p align="center">
   <!-- HTML -->
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
   <!-- CSS -->
@@ -36,8 +38,8 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
 </p>
   
-<h5 align="left">Back-End Dev</h5>
-<p align="left">
+<h5 align="center">Back-End Dev</h5>
+<p align="center">
   <!-- JAVA -->
   <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
   <!-- MYSQL -->
@@ -45,15 +47,15 @@
   <!-- SPRING -->
   <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a> 
 </p>
-<h5 align="left">UX/UI</h5>
-<p align="left"> 
+<h5 align="center">UX/UI</h5>
+<p align="center"> 
   <!-- Figma -->
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a> 
   <!-- Photoshop -->
    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>
 </p>
-<h5 align="left">Strumenti utili</h5>
-<p align="left">
+<h5 align="center">Strumenti utili</h5>
+<p align="center">
   <!-- GIT -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
   <!-- Postman -->
@@ -61,6 +63,9 @@
   <!-- WordPress -->
   <a href="https://wordpress.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1024px-WordPress_blue_logo.svg.png" alt="wordpress" width="40" height="40"/></a> 
 </p>
+
+<hr>
+
 <h3 align="left">Altre skills</h3>
 - SEO
 - Elementor
