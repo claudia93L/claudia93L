@@ -73,7 +73,7 @@
     <li><a href="https://github.com/claudia93L/Quiz-website" target="_blank">Epicode Quiz Website - HTML, CSS, JS</a></li>
     <li><a href="https://github.com/claudia93L/Spotify-Clone" target="_blank">Spotify Clone - HTML, SCSS, JS e chiamate API</a></li>
     <li><a href="https://github.com/claudia93L/Project-Work---Cartoleria" target="_blank">E-Commerce Cartoleria - HTML, CSS, JS, Spring, SQL</a></li>
-    <li><a href="https://github.com/claudia93L/Corso-BE-Generation-Italy/tree/main/JavaScript/Guardie%20e%20Ladri" target="_blank">Guardia e Ladri - JavaScript</a></li>
+    <li><a href="https://github.com/claudia93L/Corso-BE-Generation-Italy/tree/main/JavaScript/Guardie%20e%20Ladri" target="_blank">Guardie e Ladri - JavaScript</a></li>
   </ul>
   <p>Progetti individuali svolti durante il corso di Front-End Dev con EPICODE:</p>
   <ul>
