@@ -77,6 +77,7 @@
   </ul>
   <p>Progetti individuali svolti durante il corso di Front-End Dev con EPICODE:</p>
   <ul>
+    <li><a href="https://github.com/claudia93L/Corso-FE-IFOA/tree/main/Sett08/Esercizio-settimanale/netflix-react" target="_blank">Netflix Clone - HTML, Bootstrap, CSS, REACT</a></li>
     <li><a href="https://github.com/claudia93L/Corso-FE-IFOA/tree/main/Sett05/Esercizio-settimanale" target="_blank">Netflix Clone - HTML, Bootstrap, CSS, JS</a></li>
   </ul>
   <p>Progetti individuali svolti durante il corso di Java Dev con Generation Italy:</p>
