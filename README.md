@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D4D16AQFJ438T31KG6A/profile-displaybackgroundimage-shrink_350_1400/0/1702655726148?e=1709164800&v=beta&t=74RnesAytJm3T1DXG1YT8C1ibNTOugF_NNJAHoToBl8)](https://www.linkedin.com/in/claudia-lai-junior-developer/)
+[![MasterHead](https://media.licdn.com/dms/image/D4D16AQFEGTGuHZBOsw/profile-displaybackgroundimage-shrink_350_1400/0/1706289588101?e=1711584000&v=beta&t=CTrhYiUChLkn_tTB-6c_saofF5b5hDq51YU8sll4bqA)](https://www.linkedin.com/in/claudia-lai-junior-developer/)
 
 <h1 align="center">Ciao 👋, sono Claudia</h1>
 <h3 align="center">Aspirante Front-End / Full-Stack Developer</h3>
