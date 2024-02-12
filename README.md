@@ -88,6 +88,11 @@
     <li><a href="https://github.com/claudia93L/Corso-BE-Generation-Italy/tree/main/JAVA/Esercizi/Edicola" target="_blank">Gestionale edicola - Java SE</a></li>
     <li><a href="https://github.com/claudia93L/Corso-BE-Generation-Italy/tree/main/SQL" target="_blank">Vari DB costruiti in SQL</a></li>
   </ul>
+  <p>Progetti di studio Front-End svolti in autonomia:</p>
+  <ul>
+    <li><a href="https://github.com/claudia93L/react-to-do-list" target="_blank">Mobile To-Do-List - React, Redux, Tailwind</a></li>
+    <li><a href="https://github.com/claudia93L/react-project-management" target="_blank">Project Management - React, Redux, Tailwind</a></li>
+  </ul>
 </div>
 
 
