@@ -90,6 +90,7 @@
   </ul>
   <p>Progetti di studio Front-End svolti in autonomia:</p>
   <ul>
+    <li><a href="https://github.com/claudia93L/linkedin-clone" target="_blank"><b>Work in Progress - </b>LinkedIn Clone - React, Redux, Tailwind</a></li>
     <li><a href="https://github.com/claudia93L/react-to-do-list" target="_blank">Mobile To-Do-List - React, Redux, Tailwind</a></li>
     <li><a href="https://github.com/claudia93L/react-project-management" target="_blank">Project Management - React, Redux, Tailwind</a></li>
   </ul>
