@@ -1,19 +1,48 @@
 <h1 align="center">Ciao 👋, sono Claudia</h1>
-<h3 align="center">Aspirante Front-End / Full-Stack Developer</h3>
+<h3 align="center">Junior Cloud & Data Engineer enthusiast</h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=claudia93l&label=Profile%20views&color=d39800&style=flat" alt="claudia93l" /> </p>
 
-🌱 Attualmente, sto ampliando le mie competenze in programmazione con un focus su **JavaScript, React e Redux**. Questo percorso mi sta offrendo nuove prospettive e competenze nel mondo dello sviluppo software
+🌱 Attualmente sto espandendo le mie competenze nel cloud con un percorso AWS Cloud & Networking, dopo esperienze formative e lavorative in SQL Server ed Azure
 
-💬 Dalla fine del 2022 ad oggi, ho preso parte ad esperienze formative che mi hanno aiutata a costruire le fondamenta di **OOP, Sviluppo Front-End, Database e Back-End**
+💬 Dal 2022 ho costruito un percorso che parte dallo sviluppo - **Java SE, C#, Git, MySql, HTML, CSS, JavaScript, React** - fino ad arrivare ad uno stage come Jr Data Engineering - **SQL Server, Azure Data Factory** - e alla mia attuale direzione Cloud - **AWS, Linux, Python, MySQL, basi di networking**
 
-📫 Come contattarmi **https://www.linkedin.com/in/claudia-lai-junior-developer/**
+🔧 In autonomia sto approfondendo strumenti fondamentali del mondo DevOps e cloud automation, come **Docker, Jenkins, GitLab, Kubernetes e Terraform**
+
+📫 Come contattarmi **https://www.linkedin.com/in/claudia-lai-it-cloud-engineer/**
 
 ⚡ Nel tempo libero **leggo, gioco e viaggio**
 
 <hr>
 
-<h3 align="center">Linguaggi e strumenti:</h3>
+<h3 align="center">Tecnologia:</h3>
+<h5 align="center">Cloud & Data Engineering</h5>
+<p align="center">
+  <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="50" height="50"/></a>
+  <a href="https://azure.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="50" height="50"/></a>
+  <a href="https://learn.microsoft.com/en-us/azure/data-factory/" target="_blank"><img src="https://raw.githubusercontent.com/microsoft/azure-icons/main/icons/Data%20Factory.svg" alt="adf" width="50" height="50"/></a>
+</p>
+
+<h5 align="center">DevOps & Automation</h5>
+<p align="center">
+  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="50" height="50"/></a>
+  <a href="https://kubernetes.io" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="50" height="50"/></a>
+  <a href="https://www.jenkins.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="50" height="50"/></a>
+  <a href="https://about.gitlab.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" width="50" height="50"/></a>
+  <a href="https://www.terraform.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="50" height="50"/></a>
+</p>
+
+<h5 align="center">Back-End Dev</h5>
+<p align="center">
+  <!-- JAVA -->
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
+  <!-- MYSQL -->
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="sqlserver" width="40" height="40"/></a>
+  <!-- SPRING -->
+ <!--  <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a> --> 
+</p>
+
 <h5 align="center">Front-End Dev</h5>
 <p align="center">
   <!-- HTML -->
@@ -35,24 +64,8 @@
   <!-- TypeScript -->
  <!--  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a> -->
 </p>
-  
-<h5 align="center">Back-End Dev</h5>
-<p align="center">
-  <!-- JAVA -->
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-  <!-- MYSQL -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-  <!-- SPRING -->
- <!--  <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a> --> 
-</p>
-<h5 align="center">UX/UI</h5>
-<p align="center"> 
-  <!-- Figma -->
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a> 
-  <!-- Photoshop -->
-   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>
-</p>
-<h5 align="center">Strumenti utili</h5>
+
+<h5 align="center">IT Tools</h5>
 <p align="center">
   <!-- GIT -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
@@ -60,6 +73,14 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
   <!-- WordPress -->
   <a href="https://wordpress.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1024px-WordPress_blue_logo.svg.png" alt="wordpress" width="40" height="40"/></a> 
+</p>
+  
+<h5 align="center">UX/UI</h5>
+<p align="center"> 
+  <!-- Figma -->
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a> 
+  <!-- Photoshop -->
+   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>
 </p>
 
 <hr>
@@ -104,7 +125,7 @@
 
 <hr>
 
-<h3 align="center" style="float:left;">Puoi trovarmi su: <a href="https://linkedin.com/in/claudia-lai-junior-developer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="claudia-lai-junior-developer" height="30" width="40" /></a></h3>
+<h3 align="center" style="float:left;">Puoi trovarmi su: <a href="https://linkedin.com/in/claudia-lai-junior-it-cloud-engineer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="claudia-lai-junior-developer" height="30" width="40" /></a></h3>
 
 <hr> 
 
