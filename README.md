@@ -18,9 +18,11 @@
 <h3 align="center">Tecnologia:</h3>
 <h5 align="center">Cloud & Data Engineering</h5>
 <p align="center">
-  <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="50" height="50"/></a>
+  <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
+       alt="aws" width="50" height="50"/></a>
   <a href="https://azure.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="50" height="50"/></a>
-  <a href="https://learn.microsoft.com/en-us/azure/data-factory/" target="_blank"><img src="https://raw.githubusercontent.com/microsoft/azure-icons/main/icons/Data%20Factory.svg" alt="adf" width="50" height="50"/></a>
+  <a href="https://learn.microsoft.com/en-us/azure/data-factory/" target="_blank"><img src="https://raw.githubusercontent.com/Azure/azure-sdk-for-net/main/sdk/communication/Azure.Communication.UI.Common/assets/DataFactory.svg" 
+       alt="adf" width="50" height="50"/></a>
 </p>
 
 <h5 align="center">DevOps & Automation</h5>
