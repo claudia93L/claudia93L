@@ -21,7 +21,7 @@
   <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
        alt="aws" width="50" height="50"/></a>
   <a href="https://azure.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="50" height="50"/></a>
-<a href="https://learn.microsoft.com/en-us/azure/data-factory/" target="_blank"><img src="[https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/azuredatafactory.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Faz-icons.com%2Ficon%2Fdata-factories&psig=AOvVaw2LifcYNXbIiuL3nbYlQLwj&ust=1763207867998000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIiPj6fL8ZADFQAAAAAdAAAAABAE)" alt="Azure Data Factory" width="50" height="50"/></a>
+<a href="https://learn.microsoft.com/en-us/azure/data-factory/" target="_blank"><img src="https://img.icons8.com/color/512/azure-data-factory.png" alt="Azure Data Factory" width="50" height="50"/></a>
 </p>
 
 <h5 align="center">DevOps & Automation</h5>
