@@ -21,8 +21,8 @@
   <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
        alt="aws" width="50" height="50"/></a>
   <a href="https://azure.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="50" height="50"/></a>
-  <a href="https://learn.microsoft.com/en-us/azure/data-factory/" target="_blank"><img src="https://raw.githubusercontent.com/Azure/azure-sdk-for-net/main/sdk/communication/Azure.Communication.UI.Common/assets/DataFactory.svg" 
-       alt="adf" width="50" height="50"/></a>
+  <a href="https://learn.microsoft.com/en-us/azure/data-factory/" target="_blank"><img src="./path/to/azure-data-factory.svg" alt="Azure Data Factory" width="50" height="50"/></a>
+
 </p>
 
 <h5 align="center">DevOps & Automation</h5>
